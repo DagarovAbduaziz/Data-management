@@ -1,0 +1,299 @@
+[
+  {
+    "model": "app.Disease",
+    "pk": 1,
+    "fields": {
+      "name": "Katarakta",
+      "description": "Ko‘z gavhari (linza) xiralashuvi bilan tavsiflanadi. Ko‘rish asta-sekin susayadi, ayniqsa yoshi katta odamlarda ko‘p uchraydi. Jarrohlik yo‘li bilan davolash mumkin.",
+      "treatment_method": "Katarakta odatda jarrohlik yo‘li bilan davolanadi. Shox parda almashtirilib, sun’iy linza qo‘yiladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 2,
+    "fields": {
+      "name": "Glaukoma",
+      "description": "Ko‘z ichi bosimining ortishi natijasida ko‘rish nervi zararlanadi. Dastlab belgilar bilinmasligi mumkin, lekin vaqt o‘tishi bilan ko‘rlikka olib keladi.",
+      "treatment_method": "Glaukoma bosqichiga qarab dori vositalari (ko‘z tomchilari), lazerli yoki jarrohlik davolash usullari qo‘llaniladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 3,
+    "fields": {
+      "name": "Kon'yunktivit",
+      "description": "Ko‘zning tashqi qavati – kon'yunktivaning yallig‘lanishi. Virusli, bakterial yoki allergik shakllarda bo‘lishi mumkin.",
+      "treatment_method": "Bakterial kon'yunktivit uchun antibiotikli tomchilar, virusli holatlarda antiviral dorilar tavsiya etiladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 4,
+    "fields": {
+      "name": "Retinopatiya",
+      "description": "Ko‘z to‘r pardasi – retinalarning kasalliklari guruhi. Odatda diabet yoki qon bosimining oshishi bilan bog‘liq bo‘ladi.",
+      "treatment_method": "Diabetik retinopatiya uchun qon shakarini nazorat qilish, lazerli fotokoagulyatsiya yoki jarrohlik amaliyotlar qo‘llaniladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 5,
+    "fields": {
+      "name": "Quruq ko‘z sindromi",
+      "description": "Ko‘z yoshlari yetarli darajada ajralmasligi yoki sifatining pastligi tufayli ko‘zning qurishi. Noqulaylik, achishish va ko‘rish muammolariga olib keladi.",
+      "treatment_method": "Sun’iy ko‘z yoshlari, yog‘li ko‘z tomchilari va ba’zida yallig‘lanishga qarshi dorilar ishlatiladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 6,
+    "fields": {
+      "name": "Astigmatizm",
+      "description": "Ko‘zning korneasi yoki linzasidagi shakl o‘zgarishi tufayli yorug‘lik to‘g‘ri fokuslanmaydi. Noaniq ko‘rish bilan namoyon bo‘ladi.",
+      "treatment_method": "Ko‘zoynaklar, kontakt linzalar yoki refraktiv jarrohlik (LASIK) orqali tuzatiladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 7,
+    "fields": {
+      "name": "Diabetik retinopatiya",
+      "description": "Diabetik bemorlarda uchraydigan retina kasalligi. Retinada qon tomirlarining zararlanishi tufayli yuzaga keladi.",
+      "treatment_method": "Qandli diabetni nazorat qilish, retina uchun lazer terapiya, ko‘z ichi inyektsiyalari va vitrektomiya."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 8,
+    "fields": {
+      "name": "Ko‘z yallig‘lanishi",
+      "description": "Ko‘zning har xil qismlarida yallig‘lanish jarayonlari bo‘lishi mumkin, masalan, uveit yoki keratit.",
+      "treatment_method": "Yallig‘lanishga qarshi tomchilar (kortikosteroidlar), antibiotiklar va dori terapiyasi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 9,
+    "fields": {
+      "name": "Makula degeneratsiyasi",
+      "description": "Retinaning markaziy qismi – makulaning shikastlanishi. Yoshi katta odamlarda ko‘rishning sekin pasayishiga olib keladi.",
+      "treatment_method": "Anti-VEGF inyektsiyalari, lazer terapiya va maxsus ko‘zoynaklar yordamida ko‘rishni qo‘llab-quvvatlash."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 10,
+    "fields": {
+      "name": "Blefarit",
+      "description": "Ko‘z qopqog‘i chetining yallig‘lanishi. Ko‘pincha yog‘ bezlarining nosoz ishlashi bilan bog‘liq bo‘ladi.",
+      "treatment_method": "Qovoqlarni iliq suv bilan tozalash, antibiotikli malhamlar yoki tomchilar."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 11,
+    "fields": {
+      "name": "Uveit",
+      "description": "Ko‘zning o‘rta qavati – uveal to‘qimalarining yallig‘lanishi. Og‘riq, yorug‘likdan qo‘rqish va ko‘rish buzilishi bilan kechadi.",
+      "treatment_method": "Yallig‘lanishga qarshi dorilar, immunosupressiv terapiya yoki kortikosteroidlar bilan davolanadi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 12,
+    "fields": {
+      "name": "Keratit",
+      "description": "Ko‘zning old qavati – korneaning yallig‘lanishi. Bakterial, virusli yoki qo‘ziqorinli sabablari bo‘lishi mumkin.",
+      "treatment_method": "Antibiotiklar, antifungal yoki antiviral tomchilar qo‘llaniladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 13,
+    "fields": {
+      "name": "Sklerit",
+      "description": "Ko‘zning oq qismi – skleraning yallig‘lanishi. Kuchli og‘riq va ko‘rishning yomonlashuvi bilan namoyon bo‘ladi.",
+      "treatment_method": "Yallig‘lanishga qarshi steroidlar va og‘riq qoldiruvchi dorilar bilan davolash."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 14,
+    "fields": {
+      "name": "Ko‘z ichi bosimi",
+      "description": "Ko‘z ichidagi suyuqlik bosimining normadan ortishi. Glaukomaning asosiy belgilaridan biri hisoblanadi.",
+      "treatment_method": "Bosimni kamaytiruvchi tomchilar, lazer yoki jarrohlik amaliyotlar kerak bo‘lishi mumkin."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 15,
+    "fields": {
+      "name": "Ko‘z to‘r pardasi ajralishi",
+      "description": "Retinaning ostidan ajralishi. Tezda jarrohlik aralashuvi talab qilinadi, aks holda ko‘rlikka olib keladi.",
+      "treatment_method": "Zudlik bilan jarrohlik (pnevmatik retinopeksiya, skleral buckling yoki vitrektomiya) kerak."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 16,
+    "fields": {
+      "name": "Ko‘rish nervi atrofiyasi",
+      "description": "Ko‘rish nervining nobud bo‘lishi. Ko‘rish qobiliyatining sekin yo‘qolishiga olib keladi.",
+      "treatment_method": "Asosiy sababni aniqlash va uni davolash; ko‘rishni tiklash qiyin."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 17,
+    "fields": {
+      "name": "Ko‘rish zaifligi",
+      "description": "Ko‘rishning tug‘ma yoki orttirilgan pastligi. Turli sabablarga ko‘ra yuzaga keladi, koreksiya yoki davolash talab etiladi.",
+      "treatment_method": "Ko‘zoynaklar, linzalar yoki ko‘rishni qo‘llab-quvvatlovchi texnologiyalar bilan yordam beriladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 18,
+    "fields": {
+      "name": "Albinizm",
+      "description": "Melanin pigmentining yetishmasligi tufayli ko‘zlar nozik bo‘ladi va yorug‘likka juda sezuvchan bo‘ladi.",
+      "treatment_method": "Maxsus ko‘zoynaklar, quyoshdan himoyalovchi vositalar tavsiya etiladi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 19,
+    "fields": {
+      "name": "Ko‘z to‘r pardasi yirtilishi",
+      "description": "Retinada yoriq hosil bo‘lishi. Ko‘zda chaqnash, qora nuqtalar paydo bo‘lishi mumkin.",
+      "treatment_method": "Lazerli yoki muzlatish (krioterapiya) orqali tuzatish."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 20,
+    "fields": {
+      "name": "Ko‘z shikastlanishi",
+      "description": "Jismoniy ta’sir yoki jarohat natijasida ko‘zning mexanik shikastlanishi. Tez tibbiy yordam zarur.",
+      "treatment_method": "Zudlik bilan ko‘z shifokoriga murojaat qilish, kerakli davo turi aniqlanadi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 21,
+    "fields": {
+      "name": "Ko‘z qizarishi",
+      "description": "Ko‘pincha yallig‘lanish yoki allergiya belgisi sifatida paydo bo‘ladi. Ko‘z tomirlari kengayadi.",
+      "treatment_method": "Antihistamin tomchilar, sun’iy yoshlar yoki infektsiyaga qarshi vositalar."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 22,
+    "fields": {
+      "name": "Fotofobiya",
+      "description": "Yorug‘likka ortiqcha sezuvchanlik. Ko‘pincha ko‘zdagi yallig‘lanishlar yoki asab kasalliklarida kuzatiladi.",
+      "treatment_method": "Asosiy sababni davolash, quyoshdan saqlovchi ko‘zoynaklar."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 23,
+    "fields": {
+      "name": "Strabizm",
+      "description": "Ko‘zlarning bir tomonga qaray olmasligi. Bitta ob’ektga qaraganda ikki tasvir hosil bo‘ladi.",
+      "treatment_method": "Ko‘z mushaklarini jarrohlik bilan tuzatish yoki terapevtik mashqlar."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 24,
+    "fields": {
+      "name": "Amblyopiya",
+      "description": "Ko‘zning “dangasa” bo‘lishi. Bolalarda ko‘p uchraydi, erta aniqlansa davolanishi mumkin.",
+      "treatment_method": "Ko‘rish mashqlari, bir ko‘zni yopish (occlusion therapy) yoki dori vositalari."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 25,
+    "fields": {
+      "name": "Dakriosistit",
+      "description": "Ko‘z yosh yo‘llarining yallig‘lanishi. Ko‘zdan doimiy yosh oqishi bilan kechadi.",
+      "treatment_method": "Antibiotiklar va ba’zida yirtilish yo‘lini ochish uchun jarrohlik."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 26,
+    "fields": {
+      "name": "Chalazion",
+      "description": "Ko‘z qopqog‘idagi yog‘ bezining tiqilib qolishi natijasida hosil bo‘lgan shish.",
+      "treatment_method": "Iliq kompresslar, ba’zida jarrohlik olib tashlash."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 27,
+    "fields": {
+      "name": "Hordeolum (arpa)",
+      "description": "Ko‘z qopqog‘ining chetidagi yallig‘langan bez. Og‘riqli va yallig‘langan bo‘lib, ichida yiring bo‘ladi.",
+      "treatment_method": "Iliq kompresslar, antibiotikli malhamlar."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 28,
+    "fields": {
+      "name": "Optik nevrit",
+      "description": "Ko‘rish nervining yallig‘lanishi. Ko‘rishning to‘satdan yomonlashuvi va ko‘z og‘rig‘i bilan kechadi.",
+      "treatment_method": "Steroid inyektsiyalari va asosiy sababni davolash."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 29,
+    "fields": {
+      "name": "Skleromalasiya",
+      "description": "Skleraning noziklashuvi yoki yumshash kasalligi. Odatda surunkali kasalliklar fonida rivojlanadi.",
+      "treatment_method": "Kortikosteroidlar va asosiy sababga qarab dori terapiyasi."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 30,
+    "fields": {
+      "name": "Korneaning eroziyasi",
+      "description": "Korneaning sirt qatlamining shikastlanishi. Kuchli og‘riq va yorug‘lik sezuvchanligi bilan kechadi.",
+      "treatment_method": "Antibiotik tomchilar, sun’iy yosh va himoya linzalari."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 31,
+    "fields": {
+      "name": "Korneaning chandiqlanishi",
+      "description": "Korneada avvalgi jarohat yoki infeksiyadan so‘ng hosil bo‘lgan chandiq. Ko‘rishni yomonlashtiradi.",
+      "treatment_method": "Kornea transplantatsiyasi yoki shox parda tozalash amaliyoti."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 32,
+    "fields": {
+      "name": "Irit",
+      "description": "Ko‘zning iris qismining yallig‘lanishi. Og‘riq, yorug‘likdan qo‘rqish va ko‘rishning pasayishi kuzatiladi.",
+      "treatment_method": "Nevrologik muolajalar, ko‘zoynaklar yoki jarrohlik."
+    }
+  },
+  {
+    "model": "app.Disease",
+    "pk": 33,
+    "fields": {
+      "name": "Midriaziya",
+      "description": "Ko‘z qorachig‘ining normadan ortiq kengayishi. Neyrologik yoki dori ta’sirida yuzaga keladi.",
+      "treatment_method": "Yallig‘lanishga qarshi va antibakterial davo."
+    }
+  }
+]

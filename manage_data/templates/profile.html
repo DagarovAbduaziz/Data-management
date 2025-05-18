@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block page_title %}Profilim{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+  <div class="card p-4">
+    <h4>👤 Foydalanuvchi ma'lumotlari</h4>
+    <p><strong>Username:</strong> {{ request.user.username }}</p>
+    <p><strong>Email:</strong> {{ request.user.email }}</p>
+    <!-- Agar foydalanuvchi profili kengaytirilgan bo‘lsa, bu yerga boshqa maydonlarni ham qo‘shishingiz mumkin -->
+  </div>
+</div>
+{% endblock %}

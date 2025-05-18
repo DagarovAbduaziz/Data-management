@@ -1,0 +1,44 @@
+
+<!-- patients.html -->
+{% extends 'base.html' %}
+
+{% block title %}Staffs{% endblock %}
+{% block page_title %}Xodimlar malumotlari{% endblock %}
+
+{% block content %}
+<div class="card p-4 mt-4">
+  <div class="d-flex justify-content-between mb-3">
+    <h5></h5>
+    <div>
+      {% comment %} <a href="{% url 'patient_add' %}" class="btn btn-primary"><i class="bi bi-plus"></i> Add</a> {% endcomment %}
+    </div>
+  </div>
+
+  <input type="text" class="form-control mb-3" placeholder="Qidirish......">
+
+  <div class="table-responsive">
+    <table class="table table-striped">
+      <thead class="table-primary">
+        <tr>
+          <th>Ismi</th>
+          <th>Kasbi</th>
+          <th>Telefon raqami</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in staff %}
+        <tr>
+          <td>{{ s.name }}</td>
+          <td>{{ s.occupation }}</td>
+          <td>{{ s.phone}}</td>
+          <td>
+            <a href="{% url 'staff_detail' s.pk %}" class="btn btn-outline-info btn-sm">Ko'rish</a>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}

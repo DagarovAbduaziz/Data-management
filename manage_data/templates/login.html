@@ -1,0 +1,126 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login – Ko'z kasalliklari shifoxonasi</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f0f4f8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+background-image: url("https://kms-healthcare.com/wp-content/uploads/2024/06/Healthcare-Data-Management-KMS-6.webp");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        .overlay {
+            background-color: rgba(255, 255, 255, 0.85);
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+            max-width: 420px;
+            width: 100%;
+        }
+        .login-container {
+            text-align: center;
+        }
+        .login-container h2 {
+            margin: 0 0 24px;
+            color: #004d40;
+        }
+        .form-group {
+            text-align: left;
+            margin-bottom: 20px;
+        }
+        .form-group.has-error input {
+            border-color: #e53935;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: 600;
+            color: #004d40;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #b0bec5;
+            border-radius: 8px;
+            box-sizing: border-box;
+            font-size: 1rem;
+        }
+        .form-group .error {
+            color: #e53935;
+            font-size: 0.875rem;
+            margin-top: 4px;
+        }
+        .btn-login {
+            width: 100%;
+            background-color: #00838f;
+            color: #fff;
+            padding: 14px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+        .btn-login:hover {
+            background-color: #006064;
+        }
+        .form-links {
+            margin-top: 16px;
+            font-size: 0.9rem;
+            color: #004d40;
+        }
+        .form-links a {
+            color: #00838f;
+            text-decoration: none;
+            margin: 0 8px;
+        }
+        .form-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay">
+        <div class="login-container">
+            <h2>Ko'z kasalliklari shifoxonasi</h2>
+            <h2>Login</h2>
+            <form method="post" novalidate>
+                {% csrf_token %}
+
+                <div class="form-group{% if form.username.errors %} has-error{% endif %}">
+                    <label for="{{ form.username.id_for_label }}">Username</label>
+                    {{ form.username }}
+                    {% for error in form.username.errors %}
+                        <div class="error">{{ error }}</div>
+                    {% endfor %}
+                </div>
+
+                <div class="form-group{% if form.password.errors %} has-error{% endif %}">
+                    <label for="{{ form.password.id_for_label }}">Password</label>
+                    {{ form.password }}
+                    {% for error in form.password.errors %}
+                        <div class="error">{{ error }}</div>
+                    {% endfor %}
+                </div>
+
+                <button type="submit" class="btn-login">Login</button>
+
+                <div class="form-links">
+                    {% comment %} <a href="{% url 'password_reset' %}">Forgot password?</a>
+                    <a href="{% url 'register' %}">Create account</a> {% endcomment %}
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

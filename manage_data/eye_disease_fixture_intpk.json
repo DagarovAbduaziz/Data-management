@@ -1,0 +1,1002 @@
+[
+  {
+    "model": "app.Patient",
+    "pk": 1,
+    "fields": {
+      "name": "Kamol O‘ktamova",
+      "age": 44,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 2,
+    "fields": {
+      "name": "Shahzod Raufova",
+      "age": 75,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 3,
+    "fields": {
+      "name": "Shoira Ergasheva",
+      "age": 65,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 4,
+    "fields": {
+      "name": "Rustam Toirov",
+      "age": 37,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 5,
+    "fields": {
+      "name": "Muslima Mahmudov",
+      "age": 37,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 6,
+    "fields": {
+      "name": "Muslima Raufova",
+      "age": 35,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 7,
+    "fields": {
+      "name": "Bobur Islomov",
+      "age": 38,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 8,
+    "fields": {
+      "name": "Umida Sodiqov",
+      "age": 21,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 9,
+    "fields": {
+      "name": "Rayhona Mamatqulov",
+      "age": 21,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 10,
+    "fields": {
+      "name": "Dilbar Mahmudov",
+      "age": 38,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 11,
+    "fields": {
+      "name": "Sardorbek Berdiev",
+      "age": 34,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 12,
+    "fields": {
+      "name": "Dilbar Sodiqov",
+      "age": 19,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 13,
+    "fields": {
+      "name": "Ziyoda Rustamov",
+      "age": 74,
+      "disease": "Diabetik retinopatiya",
+      "eye_image_url": "https://mgkl.ru/assets/images/images/diabetich.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 14,
+    "fields": {
+      "name": "Shahzod Jo‘rayev",
+      "age": 75,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 15,
+    "fields": {
+      "name": "Muslima Rustamov",
+      "age": 69,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 16,
+    "fields": {
+      "name": "Javohir Ergasheva",
+      "age": 24,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 17,
+    "fields": {
+      "name": "Shoira Ergasheva",
+      "age": 54,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 18,
+    "fields": {
+      "name": "Olimjon Jo‘rayev",
+      "age": 38,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 19,
+    "fields": {
+      "name": "Kamol Sattorova",
+      "age": 66,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 20,
+    "fields": {
+      "name": "Kamol Mamatqulov",
+      "age": 41,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 21,
+    "fields": {
+      "name": "Zafar Toirov",
+      "age": 68,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 22,
+    "fields": {
+      "name": "Shoxrux Tursunov",
+      "age": 45,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 23,
+    "fields": {
+      "name": "Zafar Jo‘rayev",
+      "age": 49,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 24,
+    "fields": {
+      "name": "Ziyoda Rasulov",
+      "age": 20,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 25,
+    "fields": {
+      "name": "Farhod Raufova",
+      "age": 36,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 26,
+    "fields": {
+      "name": "Nodira Islomov",
+      "age": 19,
+      "disease": "Diabetik retinopatiya",
+      "eye_image_url": "https://mgkl.ru/assets/images/images/diabetich.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 27,
+    "fields": {
+      "name": "Umida Xudoyberdiyev",
+      "age": 38,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 28,
+    "fields": {
+      "name": "Oybek Tursunov",
+      "age": 70,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 29,
+    "fields": {
+      "name": "Islom O‘ktamova",
+      "age": 55,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 30,
+    "fields": {
+      "name": "Malika Karimova",
+      "age": 36,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 31,
+    "fields": {
+      "name": "Ulug'bek Ergasheva",
+      "age": 32,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 32,
+    "fields": {
+      "name": "Javohir Murodova",
+      "age": 51,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 33,
+    "fields": {
+      "name": "Ziyoda Islomov",
+      "age": 30,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 34,
+    "fields": {
+      "name": "Islom Qodirova",
+      "age": 52,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 35,
+    "fields": {
+      "name": "Nilufar Toshpulatova",
+      "age": 28,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 36,
+    "fields": {
+      "name": "Go'zal Abdurahmonova",
+      "age": 79,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 37,
+    "fields": {
+      "name": "Anvar Sherzodov",
+      "age": 73,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 38,
+    "fields": {
+      "name": "Go'zal Xudoyberdiyev",
+      "age": 51,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 39,
+    "fields": {
+      "name": "Rustam Rustamov",
+      "age": 61,
+      "disease": "Quruq ko'z sindromi",
+      "eye_image_url": "https://internist.ru/upload/iblock/5c9/5c9134cdc6862725a6e7949205e00073.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 40,
+    "fields": {
+      "name": "Muslima Toshpo'latova",
+      "age": 47,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 41,
+    "fields": {
+      "name": "Zafar Toshpulatova",
+      "age": 19,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 42,
+    "fields": {
+      "name": "Ulug'bek Sattorova",
+      "age": 73,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 43,
+    "fields": {
+      "name": "Dilbar Karimova",
+      "age": 28,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 44,
+    "fields": {
+      "name": "Shahzod Xudoyberdiyev",
+      "age": 37,
+      "disease": "Quruq ko'z sindromi",
+      "eye_image_url": "https://internist.ru/upload/iblock/5c9/5c9134cdc6862725a6e7949205e00073.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 45,
+    "fields": {
+      "name": "Islom Ergasheva",
+      "age": 71,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 46,
+    "fields": {
+      "name": "Jasur Solieva",
+      "age": 60,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 47,
+    "fields": {
+      "name": "Shoira Toshpo'latova",
+      "age": 47,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 48,
+    "fields": {
+      "name": "Zilola Rustamov",
+      "age": 80,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 49,
+    "fields": {
+      "name": "Sardorbek Qodirova",
+      "age": 21,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 50,
+    "fields": {
+      "name": "Rustam Raufova",
+      "age": 38,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 51,
+    "fields": {
+      "name": "Zafar Solieva",
+      "age": 30,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 52,
+    "fields": {
+      "name": "Shoira Mamatqulov",
+      "age": 20,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 53,
+    "fields": {
+      "name": "Farhod Toirov",
+      "age": 41,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 54,
+    "fields": {
+      "name": "Malika Rasulov",
+      "age": 71,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 55,
+    "fields": {
+      "name": "Nilufar Nurmatov",
+      "age": 66,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 56,
+    "fields": {
+      "name": "Dilbar Nurmatov",
+      "age": 24,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 57,
+    "fields": {
+      "name": "Muslima Rasulov",
+      "age": 20,
+      "disease": "Diabetik retinopatiya",
+      "eye_image_url": "https://mgkl.ru/assets/images/images/diabetich.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 58,
+    "fields": {
+      "name": "Olimjon Mamatqulov",
+      "age": 28,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 59,
+    "fields": {
+      "name": "Shahnoza Mamatqulov",
+      "age": 47,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 60,
+    "fields": {
+      "name": "Zilola Qodirova",
+      "age": 47,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 61,
+    "fields": {
+      "name": "Bobur Abdurahmonova",
+      "age": 38,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 62,
+    "fields": {
+      "name": "Go'zal Ergasheva",
+      "age": 30,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 63,
+    "fields": {
+      "name": "Dildora Abdurahmonova",
+      "age": 19,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 64,
+    "fields": {
+      "name": "Umida Toshpo'latova",
+      "age": 46,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 65,
+    "fields": {
+      "name": "Ulug'bek O‘ktamova",
+      "age": 48,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 66,
+    "fields": {
+      "name": "Ulug'bek Toshpo'latova",
+      "age": 48,
+      "disease": "Kon'yunktivit",
+      "eye_image_url": "https://laretina.com/wp-content/uploads/2017/02/macularpucker-lar-s.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 67,
+    "fields": {
+      "name": "Gulnoza Murodova",
+      "age": 37,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 68,
+    "fields": {
+      "name": "Nodira Solieva",
+      "age": 79,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 69,
+    "fields": {
+      "name": "Go'zal Murodova",
+      "age": 32,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 70,
+    "fields": {
+      "name": "Nozima Abdurahmonova",
+      "age": 52,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 71,
+    "fields": {
+      "name": "Muslima Solieva",
+      "age": 50,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 72,
+    "fields": {
+      "name": "Dildora Nurmatov",
+      "age": 29,
+      "disease": "Glaukoma",
+      "eye_image_url": "https://www.researchgate.net/publication/235424200/figure/fig4/AS:393339380748311@1470790824925/Fond-doeil-gauche-normal-chez-un-sujet-age-de-47-ans-Petite-pupille-cliche-central.png"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 73,
+    "fields": {
+      "name": "Shahnoza Karimova",
+      "age": 57,
+      "disease": "Diabetik retinopatiya",
+      "eye_image_url": "https://mgkl.ru/assets/images/images/diabetich.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 74,
+    "fields": {
+      "name": "Zilola Aliyeva",
+      "age": 72,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 75,
+    "fields": {
+      "name": "Rayhona Ergasheva",
+      "age": 29,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 76,
+    "fields": {
+      "name": "Sardorbek Toshpulatova",
+      "age": 79,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 77,
+    "fields": {
+      "name": "Dildora Abdurahmonova",
+      "age": 57,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 78,
+    "fields": {
+      "name": "Javohir O‘ktamova",
+      "age": 47,
+      "disease": "Quruq ko'z sindromi",
+      "eye_image_url": "https://internist.ru/upload/iblock/5c9/5c9134cdc6862725a6e7949205e00073.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 79,
+    "fields": {
+      "name": "Oybek Qodirova",
+      "age": 21,
+      "disease": "Quruq ko'z sindromi",
+      "eye_image_url": "https://internist.ru/upload/iblock/5c9/5c9134cdc6862725a6e7949205e00073.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 80,
+    "fields": {
+      "name": "Zafar Rustamov",
+      "age": 55,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 81,
+    "fields": {
+      "name": "Shoxrux Xudoyberdiyev",
+      "age": 34,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 82,
+    "fields": {
+      "name": "Kamol O‘ktamova",
+      "age": 47,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 83,
+    "fields": {
+      "name": "Dildora Mamatqulov",
+      "age": 27,
+      "disease": "Quruq ko'z sindromi",
+      "eye_image_url": "https://internist.ru/upload/iblock/5c9/5c9134cdc6862725a6e7949205e00073.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 84,
+    "fields": {
+      "name": "Umida Sattorova",
+      "age": 34,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 85,
+    "fields": {
+      "name": "Oybek O‘ktamova",
+      "age": 80,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 86,
+    "fields": {
+      "name": "Oybek Berdiev",
+      "age": 56,
+      "disease": "Quruq ko'z sindromi",
+      "eye_image_url": "https://internist.ru/upload/iblock/5c9/5c9134cdc6862725a6e7949205e00073.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 87,
+    "fields": {
+      "name": "Ziyoda Sattorova",
+      "age": 46,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 88,
+    "fields": {
+      "name": "Anvar Xudoyberdiyev",
+      "age": 53,
+      "disease": "Quruq ko'z sindromi",
+      "eye_image_url": "https://internist.ru/upload/iblock/5c9/5c9134cdc6862725a6e7949205e00073.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 89,
+    "fields": {
+      "name": "Rustam Xudoyberdiyev",
+      "age": 29,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 90,
+    "fields": {
+      "name": "Olimjon Rasulov",
+      "age": 51,
+      "disease": "Katarakta",
+      "eye_image_url": "https://cdn.futura-sciences.com/sources/images/diaporama/1536-loeil-et-la-vision/album-oeil11.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 91,
+    "fields": {
+      "name": "Kamol Aliyeva",
+      "age": 59,
+      "disease": "Blefarit",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Human_eye1.jpg/320px-Human_eye1.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 92,
+    "fields": {
+      "name": "Javohir Rustamov",
+      "age": 27,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 93,
+    "fields": {
+      "name": "Ulug'bek Mamatqulov",
+      "age": 56,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 94,
+    "fields": {
+      "name": "Nodira Toshpulatova",
+      "age": 27,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 95,
+    "fields": {
+      "name": "Malika Rasulov",
+      "age": 49,
+      "disease": "Diabetik retinopatiya",
+      "eye_image_url": "https://mgkl.ru/assets/images/images/diabetich.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 96,
+    "fields": {
+      "name": "Rustam Sattorova",
+      "age": 80,
+      "disease": "Retinopatiya",
+      "eye_image_url": "https://superzrenie.com/wp-content/uploads/2016/06/diabetich-retinopatiya.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 97,
+    "fields": {
+      "name": "Olimjon Jo‘rayev",
+      "age": 52,
+      "disease": "Ko‘z yallig‘lanishi",
+      "eye_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fundus_photograph-normal_retina_EDA06.JPG/250px-Fundus_photograph-normal_retina_EDA06.JPG"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 98,
+    "fields": {
+      "name": "Farhod Solieva",
+      "age": 31,
+      "disease": "Astigmatizm",
+      "eye_image_url": "https://glazalazer.ru/images/stories/laz_lechenie/deab_retinopatia/diab_retinopatia2.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 99,
+    "fields": {
+      "name": "Rayhona Rustamov",
+      "age": 44,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  },
+  {
+    "model": "app.Patient",
+    "pk": 100,
+    "fields": {
+      "name": "Go'zal Rustamov",
+      "age": 54,
+      "disease": "Makula degeneratsiyasi",
+      "eye_image_url": "https://ophtalmologie-antibes.com/wp-content/uploads/2022/05/800px-Fundus_photograph_of_normal_right_eye.jpg"
+    }
+  }
+]

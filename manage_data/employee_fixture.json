@@ -1,0 +1,362 @@
+[
+  {
+    "model": "app.Staff",
+    "pk": 1,
+    "fields": {
+      "name": "Dildora Xudoyberdiyev",
+      "occupation": "Ko'z shifokori",
+      "phone": "+9989538276171"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 2,
+    "fields": {
+      "name": "Gulnoza Sherzodov",
+      "occupation": "Marketing mutaxassisi",
+      "phone": "+9989575953782"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 3,
+    "fields": {
+      "name": "Malika Sherzodov",
+      "occupation": "Ko'z shifokori",
+      "phone": "+9989775325324"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 4,
+    "fields": {
+      "name": "Dilbar Aliyeva",
+      "occupation": "Administrator",
+      "phone": "+9989685754574"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 5,
+    "fields": {
+      "name": "Muslima Sodiqov",
+      "occupation": "Sterilizatsiya xodimi",
+      "phone": "+9989997314164"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 6,
+    "fields": {
+      "name": "Umida Raufova",
+      "occupation": "Optometrist",
+      "phone": "+9989817395810"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 7,
+    "fields": {
+      "name": "Nilufar Qodirova",
+      "occupation": "Optometrist",
+      "phone": "+9989860619376"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 8,
+    "fields": {
+      "name": "Jasur Aliyeva",
+      "occupation": "Hamshira",
+      "phone": "+9989559541437"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 9,
+    "fields": {
+      "name": "Farhod Ergasheva",
+      "occupation": "Xavfsizlik xodimi",
+      "phone": "+9989672920123"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 10,
+    "fields": {
+      "name": "Olim Toirov",
+      "occupation": "Xavfsizlik xodimi",
+      "phone": "+9989863937382"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 11,
+    "fields": {
+      "name": "Olim Toshpo'latova",
+      "occupation": "Administrator",
+      "phone": "+9989999720774"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 12,
+    "fields": {
+      "name": "Olim Toirov",
+      "occupation": "Administrator",
+      "phone": "+9989475963790"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 13,
+    "fields": {
+      "name": "Olim Tursunov",
+      "occupation": "Retinolog",
+      "phone": "+9989245795818"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 14,
+    "fields": {
+      "name": "Umida Mamatqulov",
+      "occupation": "Tibbiy yordam xodimi",
+      "phone": "+9989863382875"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 15,
+    "fields": {
+      "name": "Zafar Rasulov",
+      "occupation": "Tibbiy yordam xodimi",
+      "phone": "+9989982115913"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 16,
+    "fields": {
+      "name": "Ulug'bek O‘ktamova",
+      "occupation": "Xavfsizlik xodimi",
+      "phone": "+9989262207946"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 17,
+    "fields": {
+      "name": "Muslima Qodirova",
+      "occupation": "Laborant",
+      "phone": "+9989588640272"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 18,
+    "fields": {
+      "name": "Dildora Toshpo'latova",
+      "occupation": "Marketing mutaxassisi",
+      "phone": "+9989284296303"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 19,
+    "fields": {
+      "name": "Zilola Xudoyberdiyev",
+      "occupation": "Marketing mutaxassisi",
+      "phone": "+9989915428199"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 20,
+    "fields": {
+      "name": "Go'zal Nurmatov",
+      "occupation": "Hamshira",
+      "phone": "+9989962427581"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 21,
+    "fields": {
+      "name": "Malika Tursunov",
+      "occupation": "Ko'z shifokori",
+      "phone": "+9989693043472"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 22,
+    "fields": {
+      "name": "Ulug'bek Toirov",
+      "occupation": "Sterilizatsiya xodimi",
+      "phone": "+9989460361428"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 23,
+    "fields": {
+      "name": "Zilola Nurmatov",
+      "occupation": "Oftalmolog",
+      "phone": "+9989756095803"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 24,
+    "fields": {
+      "name": "Rayhona Islomov",
+      "occupation": "Ko'z shifokori",
+      "phone": "+9989260469365"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 25,
+    "fields": {
+      "name": "Olim Sherzodov",
+      "occupation": "Hamshira",
+      "phone": "+9989288500434"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 26,
+    "fields": {
+      "name": "Farhod Tursunov",
+      "occupation": "Oftalmolog",
+      "phone": "+9989896160201"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 27,
+    "fields": {
+      "name": "Ziyoda Toshpo'latova",
+      "occupation": "Retinolog",
+      "phone": "+9989386866937"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 28,
+    "fields": {
+      "name": "Shahzod Qodirova",
+      "occupation": "Optometrist",
+      "phone": "+9989747258936"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 29,
+    "fields": {
+      "name": "Dilbar Solieva",
+      "occupation": "Marketing mutaxassisi",
+      "phone": "+9989638764591"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 30,
+    "fields": {
+      "name": "Anvar O‘ktamova",
+      "occupation": "Optometrist",
+      "phone": "+9989883481088"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 31,
+    "fields": {
+      "name": "Dildora Sherzodov",
+      "occupation": "Hamshira",
+      "phone": "+9989185719426"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 32,
+    "fields": {
+      "name": "Shoxrux Toshpulatova",
+      "occupation": "Oftalmolog",
+      "phone": "+9989709431687"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 33,
+    "fields": {
+      "name": "Shoira Berdiev",
+      "occupation": "Xavfsizlik xodimi",
+      "phone": "+9989912396273"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 34,
+    "fields": {
+      "name": "Zafar Rustamov",
+      "occupation": "Oftalmolog",
+      "phone": "+9989140347276"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 35,
+    "fields": {
+      "name": "Bobur O‘ktamova",
+      "occupation": "Administrator",
+      "phone": "+9989457257269"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 36,
+    "fields": {
+      "name": "Javohir Ergasheva",
+      "occupation": "Marketing mutaxassisi",
+      "phone": "+9989985544989"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 37,
+    "fields": {
+      "name": "Zilola Xudoyberdiyev",
+      "occupation": "Texnik xodim",
+      "phone": "+9989155162070"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 38,
+    "fields": {
+      "name": "Anvar Ergasheva",
+      "occupation": "Xavfsizlik xodimi",
+      "phone": "+9989799215154"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 39,
+    "fields": {
+      "name": "Zilola Mahmudov",
+      "occupation": "Hamshira",
+      "phone": "+9989562910092"
+    }
+  },
+  {
+    "model": "app.Staff",
+    "pk": 40,
+    "fields": {
+      "name": "Olim Aliyeva",
+      "occupation": "Ko'z shifokori",
+      "phone": "+9989147654120"
+    }
+  }
+]

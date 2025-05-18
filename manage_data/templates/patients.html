@@ -1,0 +1,45 @@
+<!-- patients.html -->
+{% extends 'base.html' %}
+
+{% block title %}Patients{% endblock %}
+{% block page_title %}Bemorlar Malumotlari{% endblock %}
+
+{% block content %}
+<div class="card p-4 mt-4">
+  <div class="d-flex justify-content-between mb-3">
+    <h5>Bemor qo'shish</h5>
+    <div>
+      <a href="{% url 'patient_add' %}" class="btn btn-primary"><i class="bi bi-plus"></i> qo'shish</a>
+    </div>
+  </div>
+
+  <input type="text" class="form-control mb-3" placeholder="Bemorlarni qidirish...">
+
+  <div class="table-responsive">
+    <table class="table table-striped">
+      <thead class="table-primary">
+        <tr>
+          <th>FISH</th>
+          <th>Yosh</th>
+          <th>Kasallik turi</th>
+          <th>Ko'zning rasmi</th> 
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for patient in patients %}
+        <tr>
+          <td>{{ patient.name }}</td>
+          <td>{{ patient.age }}</td>
+          <td>{{ patient.disease}}</td>
+<td><img src="{{ patient.eye_image_url }}" alt="Eye Image" width="100"></td>
+          <td>
+            <a href="{% url 'patient_detail' patient.pk %}" class="btn btn-outline-info btn-sm">Ko'rish</a>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}
